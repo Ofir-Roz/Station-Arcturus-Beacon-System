@@ -175,11 +175,3 @@ The pre-built executables are configured to connect to `http://127.0.0.1:8000` b
 
 - **Port already in use**: Another application may be using port 8000. Stop it or modify the port in `backend/run.py`
 - **Module not found errors**: Ensure you've activated the virtual environment and installed all dependencies
-
-## License
-
-_Add your license information here_
-
-## Contributing
-
-_Add contributing guidelines here_
